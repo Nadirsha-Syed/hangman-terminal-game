@@ -51,4 +51,9 @@ Be careful not to repeat guesses — only one letter per turn is allowed!
 
 Let me know if you want this to support **replay mode**, **GUI with Tkinter**, or a **web version** too!
 
+##  Contact
+
+If you have any questions or feedback, feel free to reach out:
+- Email: nadirshasyed835@gmail.com  
+- GitHub: Nadirsha-Syed(https://github.com/Nadirsha-Syed)
 
