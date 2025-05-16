@@ -3,45 +3,7 @@
 A classic Hangman word-guessing game built in Python. This game runs in the terminal and features ASCII art, input validation, and randomly selected challenging words. It's a fun way to practice Python basics like loops, conditionals, lists, and sets.
 
 # 📸 Preview
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- _
-| |
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |
-                   |___/
-
-The solution is flyby.
-Guess a letter: a
-❌ The letter 'a' is not in the word. Lives left: 5
-
-Word: _ _ _ _ _
-
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-
-Guess a letter: f
-
-Word: f _ _ _ _
-
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-
-Guess a letter:
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![Screenshot 2025-05-16 223401](https://github.com/user-attachments/assets/6cf9d20f-8406-4801-a8bf-4fdfdda897b5)
 
 ## 🚀 Features
 
@@ -62,8 +24,10 @@ Guess a letter:
    git clone https://github.com/Nadirsha-Syed/hangman-game.git
 
 2. **Navigate the project directory**:
+   ```bash
    cd hangman-game
-3. **Run the game**:
+4. **Run the game**:
+   ```bash
    python hangman.py
 
 ## ▶️ How to Use
@@ -81,12 +45,6 @@ You’ll continue guessing letters until you either:
 
 Be careful not to repeat guesses — only one letter per turn is allowed!
 
-
-## File Structure
-  hangman-terminal-game/
-  │
-  ├── hangman.py        # Main game script
-  ├── README.md         # Project documentation
 
 
 ---
